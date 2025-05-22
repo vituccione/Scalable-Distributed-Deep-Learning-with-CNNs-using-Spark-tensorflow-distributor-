@@ -79,3 +79,16 @@ As datasets grow in volume and complexity, training deep learning models like CN
   - Data augmentation
   - Monitoring with TensorBoard
   - Model versioning with MLflow
+ 
+## 👨‍💻 Author
+
+**Marco Vitucci**  
+MSc Data Analytics – CCT College Dublin  
+📧 marco.vitucci@outlook.it
+
+---
+
+## 📜 Citation
+
+If you use this project or build upon it, please cite:  
+**Vitucci, M. (2025)**. *Scalable Distributed Deep Learning with CNNs using Spark-tensorflow-distributor*. CCT College Dublin.
